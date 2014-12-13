@@ -1,0 +1,17 @@
+Thibaut Courtois	86	GK	84	87	69	88	46	86
+Branislav Ivanovic	82	RB	68	61	65	62	89	85
+John Terry	83	CB	41	47	56	52	84	80
+Gary Cahill	81	CB	74	58	52	62	84	76
+Azpilicueta	79	LB	79	56	74	73	80	76
+Filipe Luis	82	LB	82	62	76	78	81	77
+Nemanja Matic	82	CDM	67	70	76	75	80	85
+Ramires	81	CDM	88	69	77	82	79	73
+John Obi Mikel	78	CDM	61	53	69	68	78	88
+Cesc Fabregas	84	CM	68	79	88	81	64	63
+Oscar	84	CAM	81	75	80	85	43	44
+Willian	82	RM	89	73	78	87	50	63
+Andre Schurrle	81	LM	88	83	75	83	37	67
+Eden Hazard	88	LM	89	82	84	91	32	64
+Didier Drogba	81	ST	67	83	75	75	36	78
+Loic Remy	80	ST	90	80	68	74	34	71
+Diego Costa	85	ST	82	83	63	79	40	88

@@ -1,0 +1,17 @@
+﻿D Moya	78	GK	81	74	82	82	46	75
+Diego Godin	84	CB	67	48	62	60	86	78
+Miranda	83	CB	76	49	56	57	84	79
+Juanfran	79	RB	83	59	73	79	76	78
+Siqueira	77	LB	78	64	74	79	74	78
+Jesus Gamez	78	RB	72	51	66	66	78	84
+Cristian Ansaldi	77	LB	84	58	71	72	75	73
+Gabi	82	CM	68	72	80	76	75	73
+Tiago	80	CM	63	67	78	73	69	77
+Mario Suarez	79	CM	63	68	77	72	78	81
+Cristian Rodriguez	79	LM	79	76	78	78	51	80
+Raul Garcia	79	RM	72	74	80	77	65	80
+Arda Turan	84	LM	77	74	83	86	61	72
+Koke	82	LM	75	72	85	81	53	73
+Antoine Griezmann	82	LW	85	77	76	83	30	68
+Alessio Cerci	80	CF	87	78	81	83	34	74
+Mario Mandzukic	83	ST	75	82	61	75	43	87

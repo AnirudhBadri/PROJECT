@@ -1,0 +1,17 @@
+﻿Joe Hart	82	GK	85	76	79	86	59	79
+Bacary Sagna	80	RB	74	56	71	75	81	78
+Pablo Zabaleta	82	RB	74	52	74	75	83	82
+Vincent Kompany	86	CB	73	56	69	67	87	81
+Eliaquim Mangala	80	CB	76	40	59	63	79	85
+Gael Clichy	80	LB	85	42	70	78	80	68
+Fernandinho	82	CM	78	74	82	81	73	75
+Fernando	79	CDM	68	60	69	73	83	83
+Frank Lampard	80	CM	46	84	83	76	62	72
+Yaya Toure	86	CM	76	82	81	79	80	90
+Samir Nasri	84	LM	78	76	84	86	39	60
+James Milner	80	RM	69	77	84	77	71	76
+Edin Dzeko	84	ST	72	86	71	80	37	74
+Jesus Navas	83	RM	91	71	78	84	29	53
+Stevan Jovetic	81	ST	78	82	78	83	38	70
+David Silva	87	LM	76	77	86	89	33	57
+Sergio Aguero	86	ST	88	86	77	88	28	66

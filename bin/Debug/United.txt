@@ -1,0 +1,17 @@
+De Gea	83	GK	87	75	86	88	51	76
+Rafael	77	RB	83	56	71	77	76	77
+Marcos Rojo	79	CB	75	59	66	66	79	82
+Phil Jones	79	CB	66	55	65	61	80	80
+Jonny Evans	79	CB	74	31	58	51	81	74
+Luke Shaw	75	LB	82	39	68	76	75	73
+Daley Blind	79	CDM	66	51	73	75	74	77
+Marouane Fellaini	79	CDM	64	71	73	71	75	88
+Ander Herrera	79	CM	76	62	79	84	54	65
+Michael Carrick	79	CM	60	69	79	72	75	68
+Antonio Valencia	80	RM	85	67	78	79	47	75
+Adnan Januzaj	75	LM	82	63	72	81	22	51
+Juan Mata	85	CAM	74	75	84	87	31	60
+Falcao	88	ST	77	86	64	81	40	73
+Wayne Rooney	86	ST	76	87	82	83	44	87
+Angel Di Maria	86	CAM	90	79	83	87	57	71
+Robin van Persie	88	ST	74	90	82	83	33	68

@@ -1,0 +1,17 @@
+Claudio Bravo	83	GK	85	82	85	86	58	78
+Dani Alves	83	RB	86	70	79	83	76	68
+Pique	84	CB	66	54	69	60	86	76
+Jeremy Mathieu	80	CB	76	64	66	55	82	81
+Javier Mascherano	83	CB	69	59	70	69	84	80
+Thomas Vermaelen	79	CB	71	63	69	62	80	77
+Jordi Alba	81	LB	92	69	75	81	78	76
+Montoya	77	RB	88	49	72	75	73	76
+Sergio Busquets	85	CDM	56	59	78	75	81	80
+Ivan Rakitic	84	CM	70	84	89	82	58	70
+Xavi	86	CM	66	72	91	85	60	58
+Iniesta	89	CM	75	72	89	91	59	63
+Rafinha	78	CAM	77	70	75	82	56	67
+Pedro	83	LW	84	76	78	84	37	60
+Neymar	86	LW	90	80	72	92	30	58
+Luis Suarez	89	ST	83	87	79	88	42	79
+Lionel Messi	93	CF	93	89	86	96	27	62

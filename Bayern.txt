@@ -1,0 +1,17 @@
+Manuel Neuer	90	GK	87	85	92	86	58	90
+David Alaba	82	LB	86	70	81	82	79	72
+Javi Martinez	85	CB	53	61	72	68	84	85
+Jerome Boateng	85	CB	77	50	66	69	83	82
+Mehdi Benatia	84	CB	75	45	54	64	88	84
+Dante	82	CB	64	56	72	71	83	76
+Holger Badstuber	80	CB	59	50	71	54	80	74
+Philipp Lahm	87	CDM	76	56	84	83	87	67
+Bastian Schweinsteiger	88	CM	61	81	85	82	78	80
+Xabi Alonso	84	CDM	55	71	86	68	78	72
+Thiago	81	CM	72	72	79	87	57	64
+Xherdan Shaqiri	80	RM	88	78	76	86	57	74
+Arjen Robben	90	RM	93	86	83	92	32	64
+Franck Ribery	88	LM	89	78	85	92	29	62
+Thomas Muller	86	RM	81	84	82	80	46	72
+Mario Gotze	85	CAM	80	74	82	89	35	63
+Robert Lewandowski	87	ST	81	84	74	85	39	78

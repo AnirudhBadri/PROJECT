@@ -1,0 +1,98 @@
+
+	Match number : 1
+		Barcelona 2 - 0 Chelsea
+
+		14' Neymar scores for Barcelona!
+		20' Yellow Card! Thibaut Courtois!Chelsea!
+		38' Yellow Card! Sergio Busquets!Barcelona!
+		45' Yellow Card! Cesc Fabregas!Chelsea!
+		50' Pedro scores for Barcelona!
+		60' Yellow Card! Luis Suarez!Barcelona!
+		77' Yellow Card! Diego Costa!Chelsea!
+
+		Shots:
+		Barcelona: 5
+		Chelsea: 3
+
+	Match number : 2
+		Barcelona 0 - 3 PSG
+
+		28' Yellow Card! Salvatore Sirigu!PSG!
+		29' Javier Pastore scores for PSG!
+		32' Yellow Card! Rafinha!Barcelona!
+		50' Ezequiel Lavezzi scores for PSG!
+		82' Yellow Card! Edinson Cavani!PSG!
+		87' Edinson Cavani scores for PSG!
+		89' Yellow Card! Thiago Motta!PSG!
+
+		Shots:
+		Barcelona: 5
+		PSG: 16
+
+	Match number : 3
+		Manchester United 2 - 2 Chelsea
+
+		14' Angel Di Maria scores for Manchester United!
+		35' Falcao scores for Manchester United!
+		43' Cesc Fabregas scores for Chelsea!
+		44' Yellow Card! Daley Blind!Manchester United!
+		49' Yellow Card! Loic Remy!Chelsea!
+		85' Yellow Card! Filipe Luis!Chelsea!
+		90' Loic Remy scores for Chelsea!
+
+		Shots:
+		Manchester United: 9
+		Chelsea: 16
+
+	Match number : 4
+		Real Madrid 0 - 1 Manchester City
+
+		9' Yellow Card! Frank Lampard!Manchester City!
+		18' Yellow Card! David Silva!Manchester City!
+		50' Yellow Card! Luka Modric!Real Madrid!
+		55' Yaya Toure scores for Manchester City!
+
+		Shots:
+		Real Madrid: 9
+		Manchester City: 19
+
+	Match number : 5
+		PSG 1 - 0 Chelsea
+
+		31' Yellow Card! Thibaut Courtois!Chelsea!
+		43' Yellow Card! Yohan Cabaye!PSG!
+		44' Yellow Card! Diego Costa!Chelsea!
+		75' Yellow Card! Willian!Chelsea!
+		83' Lucas scores for PSG!
+
+		Shots:
+		PSG: 11
+		Chelsea: 19
+
+	Match number : 6
+		Real Madrid 1 - 3 Chelsea
+
+		4' Cesc Fabregas scores for Chelsea!
+		19' Yellow Card! Oscar!Chelsea!
+		23' Yellow Card! Luka Modric!Real Madrid!
+		35' Didier Drogba scores for Chelsea!
+		58' Karim Benzema scores for Real Madrid!
+		70' Yellow Card! James Rodriguez!Real Madrid!
+		77' Oscar scores for Chelsea!
+		83' Yellow Card! James Rodriguez!Real Madrid!
+
+		Shots:
+		Real Madrid: 13
+		Chelsea: 17
+
+	Match number : 7
+		Barcelona 0 - 0 Atletico Madrid
+
+		19' Yellow Card! Cristian Rodriguez!Atletico Madrid!
+		55' Yellow Card! Cristian Rodriguez!Atletico Madrid!
+		74' Yellow Card! Rafinha!Barcelona!
+		85' Yellow Card! Cristian Rodriguez!Atletico Madrid!
+
+		Shots:
+		Barcelona: 13
+		Atletico Madrid: 17

@@ -1,0 +1,17 @@
+Casillas	84	GK	87	79	67	88	65	79
+Carvajal	79	RB	83	40	73	78	76	82
+Arbeloa	79	RB	73	60	71	61	79	78
+Sergio Ramos	87	CB	79	60	71	66	87	82
+Pepe	83	CB	73	50	58	59	84	83
+Raphael Varane	81	CB	76	45	60	62	83	76
+Marcelo	82	LB	81	67	78	84	77	79
+Fabio Coentrao	79	LB	80	65	73	79	75	76
+Toni Kroos	85	CM	58	81	89	84	58	69
+Sami Khedira	84	CDM	56	69	74	65	83	86
+Luka Modric	87	CM	76	74	85	89	71	70
+James Rodriguez	86	CAM	80	80	84	85	40	72
+Isco	83	CAM	76	76	82	86	32	62
+Javier Hernandez	81	ST	86	80	64	76	31	63
+Gareth Bale	87	RM	94	83	83	84	63	81
+Cristiano Ronaldo	92	LW	93	93	81	91	32	79
+Karim Benzema	85	ST	84	84	75	82	30	74

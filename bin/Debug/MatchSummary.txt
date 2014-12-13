@@ -1,0 +1,25 @@
+
+	Match number : 1
+		Real Madrid 1 - 1 Bayern Munich
+
+		13' Yellow Card! Xabi Alonso!Bayern Munich!
+		43' Franck Ribery scores for Bayern Munich!
+		74' Yellow Card! Pepe!Real Madrid!
+		75' Luka Modric scores for Real Madrid!
+		90' Yellow Card! Toni Kroos!Real Madrid!
+
+		Shots:
+		Real Madrid: 6
+		Bayern Munich: 2
+
+	Match number : 2
+		Bayern Munich 1 - 0 Manchester City
+
+		5' Yellow Card! Robert Lewandowski!Bayern Munich!
+		13' Thomas Muller scores for Bayern Munich!
+		34' Yellow Card! Sergio Aguero!Manchester City!
+		85' Yellow Card! Thiago!Bayern Munich!
+
+		Shots:
+		Bayern Munich: 9
+		Manchester City: 2
